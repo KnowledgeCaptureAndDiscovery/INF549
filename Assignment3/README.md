@@ -1,6 +1,6 @@
 ## Instructions for using this notebook ##
 
-This fold contains three notebooks, including two machine learning algorithms, decision tree and Naive Bayes and one text preprocessing notebook called text featurization.
+This fold contains three notebooks, including two machine learning algorithms, decision tree and Naive Bayes and one text preprocessing notebook called text featurization. All the machine learning algorthims in these notebooks are implemented by a popular machine learning library called [scikit-learn](http://scikit-learn.org/stable/). You're welcome to explore it by yourself.
 
 Also,we provide three classification datasets that could be applied to either of the two ML algorithms. 
 * ["iris.data"](https://archive.ics.uci.edu/ml/datasets/iris) has four attributes with continuous values describing three different iris species.
