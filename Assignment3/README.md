@@ -1,4 +1,4 @@
-## Instructions for using this notebook ##
+## Instructions for using these notebooks ##
 
 This fold contains three notebooks, including two machine learning algorithms, decision tree and Naive Bayes and one text preprocessing notebook called text featurization. All the machine learning algorthims in these notebooks are implemented by a popular machine learning library called [scikit-learn](http://scikit-learn.org/stable/). You're welcome to explore it by yourself.
 
