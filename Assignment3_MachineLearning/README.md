@@ -7,7 +7,7 @@ Also,we provide three classification datasets that could be applied to either of
 * ["lenses.txt"](https://archive.ics.uci.edu/ml/datasets/lenses) contains four attributes with discrete values and three classes.
 * ["SMSSpamCollection.txt"](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) includes 5572 SMS messages collected from four different research sources and they were labeled as spam or ham. 
 
-**Note:** The links of the three datasets are just for your reference. We have made some changes to the dataset so please do not use the datasets from these links for your assignments.
+**Note:** The links of the three datasets are just for your reference. We have made some changes to the datasets so please do not use the datasets from these links for your assignments. Instead, you should use datasets in the "Dataset" folder.
 
 For decision tree, the algorithm used here is called CART (classification and regression tree), which can take both discrete and continuous values as the input. For illustration purpose, we suggest to use iris.txt and lenses.txt at first. When discrete string values are inputted, the notebook will print the codebook for each cateogrical variable. If you apply decision tree to the SMS dataset, the algorithm will learn a very deep decision tree which might be hard to visualize. In the notebook, if the tree grows too deep, only the first five layers will be displayed.
 
